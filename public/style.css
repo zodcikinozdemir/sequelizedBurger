@@ -1,0 +1,20 @@
+body{
+		background-image: url('https://hd.unsplash.com/photo-1457460866886-40ef8d4b42a0');
+	background-position: center center;
+	    background-repeat: no-repeat;
+	    background-attachment:fixed;
+	    background-size: cover;
+	    font-family: 'Shadows Into Light', cursive;
+	}
+	.container {
+		 background-color: rgba(255, 255, 255, 0.5);
+		 width: 800px;
+	}
+	
+	#burger-header-img {
+		height: 50px;
+	}
+
+	.glyphicon-menu-hamburger {
+  		font-size: npx;
+	}
