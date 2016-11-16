@@ -21,9 +21,9 @@
   "author": "Zeynep Ozdemir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zodcikinozdemir/burger/issues"
+    "url": "https://github.com/zodcikinozdemir/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/zodcikinozdemir/burger#readme",
+  "homepage": "https://github.com/zodcikinozdemir/sequelizedBurger#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
