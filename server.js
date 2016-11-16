@@ -3,7 +3,7 @@ var app = express();
 
 // extract our sequelize connection from the models object, to avoid confusion
 
-var sequelize = require('Sequelize');
+//var sequelize = require('Sequelize');
 
 var models = require('./models');
 //models.sequelize.sync();
